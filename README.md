@@ -6,7 +6,7 @@ Use `startx` to start the UI. (It uses bspwm.)
 Checks which packages will be installed at here: [Package list](./packages.txt)
 
 ## Shortcuts
-- `Ctrl+q`: Kitty terminal.
+- `Super+q`: Kitty terminal.
 - `Super+1`: Workspace 1.
 - `Super+shift+1`: Move window to other workspace.
 - `Super+shift+q`: Close window.
