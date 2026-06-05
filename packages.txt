@@ -1,0 +1,38 @@
+# Network
+networkmanager
+iwd
+net-tools
+
+# Essentials
+sudo
+curl
+git
+vim
+kitty
+wget
+openssh
+gvfs
+brightnessctl
+base-devel
+github-cli
+cmake
+nano
+
+# Drivers
+usbutils
+
+# UI
+bspwm
+sxhkd
+i3lock
+rofi
+
+# File explorer
+thunar
+thunar-volman
+tumbler
+ffmpegthumbnailer
+
+# Others (you can uninstall it later)
+xorg-server
+xorg-xinit
